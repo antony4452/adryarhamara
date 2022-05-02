@@ -1,8 +1,8 @@
 ### Olá, eu sou a Adrya❣️♌
 
-Trabalho com .NET,Full-Stack👩‍💼
-Graduanda em Ciências da Computação, Estudando - C++,Java,Python,Protocolo de Redes,Segurança Cibernetica📚
-Minhas Habilidades: HTML5,CSS3,C,C#,.NET,MYSQL,SQL👩‍💻
+Trabalho com Teste de Software (Qualidade de software)👩‍💼
+Graduanda em Ciências da Computação, Estudando - Java, Python, Segurança Cibernetica, Arduino.📚
+Minhas Habilidades:Teste de Front-End, Back-End, APis. Linguagens - Javascript,HTML5,CSS3,C,SQL👩‍💻. Cypress, Postman.
 Contate: rhamaraadrya217@gmail.com
 Muito comunicativa e extrovertida, apaixonada por historia e codigos!💜
 
