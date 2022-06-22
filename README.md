@@ -2,7 +2,7 @@
 
 Trabalho com Teste de Software (Qualidade de software)👩‍💼
 Graduanda em Ciências da Computação, Estudando - Java, Python, Segurança Cibernetica, Arduino.📚
-Minhas Habilidades:Teste de Front-End, Back-End, APis. Linguagens - Javascript,HTML5,CSS3,C,SQL👩‍💻. Cypress, Postman.
+Minhas Habilidades: Teste de Front-End, Back-End, APis. Linguagens - Javascript,HTML5,CSS3,Typescript,Nodejs,C,SQL,👩‍💻. Cypress, Postman.
 Contate: rhamaraadrya217@gmail.com
 Muito comunicativa e extrovertida, apaixonada por historia e codigos!💜
 
